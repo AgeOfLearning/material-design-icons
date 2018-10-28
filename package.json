@@ -1,0 +1,32 @@
+{
+  "name": "@aofl/material-design-icons",
+  "version": "1.0.0-pre.1",
+  "description": "Material Design icons aofl web components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AgeOfLearning/material-design-icons.git"
+  },
+  "keywords": [
+    "Material Design",
+    "Icons",
+    "Material Design Icons",
+    "SVG Icons",
+    "webcomponents",
+    "lit-element",
+    "AoflElement",
+    "aofl",
+    "aofljs",
+    "svg",
+    "icons"
+  ],
+  "author": "Arian Khosravi <arian.khosravi@aofl.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AgeOfLearning/material-design-icons/issues"
+  },
+  "homepage": "https://github.com/AgeOfLearning/material-design-icons#readme"
+}
